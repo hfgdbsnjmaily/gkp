@@ -47,19 +47,6 @@ $(document).ready(function() {
         });
     }});
 
-/************************************ ANIMATIONS ON SCROLL ************************************/
-
-
-    /*let waypointAboutUs = new Waypoint({
-        element: $('about-us')[0],
-        handler: ()=> {
-
-        $('about-us').addClass('animated bounceIn');
-    }}, {
-
-        offset: '50%'
-    });*/
-
 /************************************ STICKY NAVIGATION ************************************/
     let stickyWaypoint = new Waypoint({
       element: $('.section-results')[0],
