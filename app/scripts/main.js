@@ -293,7 +293,7 @@ $(document).ready(function() {
 
 /************************************ CROWN GALLERY ************************************/
 
-    const mountainsProgress = 15;
+    const mountainsProgress = 16;
 
     function addPhotos(arr) {
 

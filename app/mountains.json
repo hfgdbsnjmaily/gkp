@@ -1,6 +1,8 @@
 {
 "crownMountains":[
 
+    {"lat":"49.5731663", "lng":"19.5286077", "name":"Babia Góra", "marker":"markerGreen", "photos":["babiaGora.jpg", "babiaGora2.jpg", "babiaGora3.jpg", "babiaGora4.jpg", "babiaGora5.jpg", "babiaGora7.jpg", "babiaGora8.jpg", "babiaGora9.jpg", "babiaGora10.jpg", "babiaGora11.jpg", "babiaGora12.jpg"], "date":"28 XI 2017", "height":"1725 m", "mountainRange":"Beskid Żywiecki", "tag":"babiaGora"},
+
     {"lat":"49.179628", "lng":"20.087987", "name":"Rysy", "marker":"markerGreen", "photos":["rysy.jpg", "rysy2.jpg", "rysy3.jpg", "rysy4.jpg", "rysy5.jpg", "rysy6.jpg", "rysy7.jpg", "rysy8.jpg", "rysy9.jpg"], "date":"24 VIII 2017", "height":"2499 m", "mountainRange":"Tatry", "tag":"rysy"},
 
     {"lat":"50.2440594", "lng":"16.9737003", "name":"Rudawiec", "marker":"markerGreen", "photos":["rudawiec.jpg", "rudawiec2.jpg", "rudawiec3.jpg", "rudawiec4.jpg"], "date":"5 VIII 2017", "height":"1112 m", "mountainRange":"Góry Bialskie", "tag":"rudawiec"},
@@ -32,8 +34,6 @@
     {"lat":"50.864745", "lng":"16.707827", "name":"Ślęża", "marker":"markerGreen", "photos":["sleza.jpg", "sleza2.jpg", "sleza3.jpg", "sleza4.jpg", "sleza5.jpg", "sleza6.jpg", "sleza7.jpg"], "date":"15 VIII 2014", "height":"718 m", "mountainRange":"Masyw Ślęży", "tag":"sleza"},
 
     {"lat":"50.891624", "lng":"20.896774", "name":"Łysica", "marker":"markerRed", "photos":["lysicaX.jpg"], "date":"", "height":"612 m", "mountainRange":"Góry Świętokrzyskie", "tag":"lysica"},
-
-    {"lat":"49.5731663", "lng":"19.5286077", "name":"Babia Góra", "marker":"markerRed", "photos":["babiaGoraX.jpg"], "date":"", "height":"1725 m", "mountainRange":"Beskid Żywiecki", "tag":"babiaGora"},
 
     {"lat":"49.5429214", "lng":"20.1091561", "name":"Turbacz", "marker":"markerRed", "photos":["turbaczX.jpg"], "date":"", "height":"1310 m", "mountainRange":"Gorce", "tag":"turbacz"},
 
